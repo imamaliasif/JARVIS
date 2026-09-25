@@ -4,9 +4,9 @@
   "display": "standalone",
   "name": "JARVIS",
   "orientation": "any",
-  "scope": "/",
+  "scope": "/JARVIS/",
   "short_name": "JARVIS",
-  "start_url": "/",
+  "start_url": "/JARVIS/",
   "theme_color": "#ffffff",
   "description": "JARVIS AI Assistant application",
   "icons": [
@@ -22,5 +22,11 @@
       "type": "image/png",
       "purpose": "any maskable"
     }
+  ],
+  "id": "JARVIS",
+  "lang": "en",
+  "categories": [
+    "productivity",
+    "utilities"
   ]
 }
